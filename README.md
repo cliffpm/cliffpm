@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cliffpm
-- 👀 I’m interested in embedded systems and web dev
+- 👀 I’m interested in machine learning/optimization algorithms & embedded systems
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me cliff.pham256@gmail.com
+- 📫 How to reach me cliffpm@uw.edu
 
 
