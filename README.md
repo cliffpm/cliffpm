@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @cliffpm
-- 👀 I’m interested in algorithms, digital signal processing, and software development
-- 🌱 I’m currently learning computer science and mathematics
-- 📫 How to reach me cliff.pham256@gmail.com
-
-
+Focusing on software development and the hardware/software interface (embedded sys.). Academic hobbies include algorithms and mathematics. Currently a second year at the University of Washington. Contact me at: cliff.pham256@gmail.com
