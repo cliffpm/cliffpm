@@ -1,1 +1,1 @@
-Focusing on software development and the hardware/software interface (embedded sys.). Academic hobbies include algorithms and mathematics. Currently a second year at the University of Washington. I can be reached at: cliff.pham256@gmail.com
+Focusing on software development, primarily on the hardware/software interface. Academic interests include algorithms and abstract mathematics. Currently a second year at the University of Washington. I can be reached at: cliffpmdev@gmail.com
