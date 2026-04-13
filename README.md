@@ -1,8 +1,9 @@
 <div align="center">
-<img src="<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/879b0476-1c09-466b-a6a9-64b8dd73ab43" />
-" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hello!;I'm+Cliff%2C+a+third+year+at+UW+Seattle+interested+in+harware+and+software+development!+%E2%9C%A9" width="70%" />
-<br><br>
+<img src="https://github.com/user-attachments/assets/879b0476-1c09-466b-a6a9-64b8dd73ab43" width="25%" align="right" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=220&lines=Hello!;I'm+Cliff,+a+current+third+year+student+at+UW+Seattle;with+a+passion+for+hardware+and+software+development!+✶" width="70%" />
+<br clear="right">
+<br>
 <pre>
 Hi ! My name is Cliff and I am currently a third-year student at the University of Washington studying the cross sectional area in Computer Engineering and Electrical Engineering. My work and interest revolves around machine learning, signal processing and firmware / hardware development (embedded systems, systems programming, FPGAs). I am currently seeking software and firmware internship positions to apply my knowledge towards real-world and large-scale accesbile applications and products. I can be reached at: cliffpmdev@gmail.com
 </pre>
