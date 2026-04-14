@@ -4,8 +4,11 @@
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&duration=3100&pause=300&color=D698F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&cursor=true&lines=Hello!;I'm+Cliff%2C+an+Engineer+and+a+Photographer;" width="100%" />
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=B794F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Cliff%2C+an+Engineer+and+a+Photographer&cursor=true&character=_" width="100%" /> -->
       <br><br>
-      <pre>Current Third Year Student @ UW</pre>
-      <pre>Area of Focus: • Machine Learning • System Programming • Signal Processing •RTL design</pre>
+      <pre>
+        📚 Current Third Year Student @ UW
+        💡Area of Focus: • Machine Learning • System Programming • Signal Processing •RTL design
+        ⚡Hobbies : • Algorithms / Mathematics • Video Games • Photography and Videography
+      </pre>
       <br>
       <img src="assets/pochita.gif" height="75" />
       <br><br>
