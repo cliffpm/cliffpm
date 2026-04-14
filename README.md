@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/reze_beach_trim.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=B794F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Cliff%2C+an+Enginner+and+a+Photographer" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2500&pause=300&color=B794F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Cliff%2C+an+Enginner+and+a+Photographer" width="70%" />
 <br><br>
 <pre>
 hellooo
@@ -13,4 +13,5 @@ hellooo
 <!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+<img src="assets/denji_reze_beach_blue.png" width="50%" />
 </div>
