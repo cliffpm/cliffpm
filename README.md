@@ -5,7 +5,7 @@
       <br><br>
       <pre>hellooo</pre>
       <br>
-      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+      <img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://i.giphy.com/rDwXCBj6vaMIunrArX.webp)" height="40" />
       <br><br>
       <img src="assets/denji_reze_beach_blue.png" width="100%" />
     </td>
