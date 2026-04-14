@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td align="center" width="75%" style="border: none; vertical-align: bottom;">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&duration=3100&pause=300&color=BF5DE8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&cursor=true&lines=Hello!;I'm+Cliff%2C+an+Engineer+and+a+Photographer" width="100%" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&duration=3100&pause=300&color=D698F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&cursor=true&lines=Hello!;I'm+Cliff%2C+an+Engineer+and+a+Photographer" width="100%" />
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=B794F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Cliff%2C+an+Engineer+and+a+Photographer&cursor=true&character=_" width="100%" /> -->
       <br><br>
       <pre>hellooo</pre>
