@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=2000&pause=1&color=D698F0&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi!+I'm+Cliff+and+I+am+a+" />
   
-  <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=1300&pause=130&color=D698F0&center=true&vCenter=true&width=700&height=70&lines=%20;Engineer;Photographer;Artist" />
+  <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=1300&pause=350&color=D698F0&center=true&vCenter=true&width=700&height=70&lines=Engineer;Photographer;Artist" />
       <br><br>
       <pre>
         📚 Current Third Year Student @ UW
