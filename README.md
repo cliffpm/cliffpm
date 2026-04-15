@@ -12,7 +12,7 @@
   <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=1300&pause=700&color=D698F0&center=true&vCenter=true&width=700&height=70&lines=%20;Engineer;Photographer;Artist;Student" />
       <br><br>
       <pre>
-        📚 Current Third Year Student @ UW
+        📚 Current Third Year Student @ UW Seattle
         💡Area of Focus: • Machine Learning • System Programming • Signal Processing • RTL design
         ⚡Hobbies : • Algorithms / Mathematics • Video Games • Photography and Videography
       </pre>
