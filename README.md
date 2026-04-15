@@ -11,7 +11,6 @@
   
  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=2000&pause=1000&color=D698F0&center=false&vCenter=true&width=1000&height=140&lines=n+Engineer;+Photographer;+n+Artist" />
-  
       <br><br>
       <pre>
         📚 Current Third Year Student @ UW
@@ -28,7 +27,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- <div align="center">
 <img src="assets/reze_beach_trim.jpg" width="25%" align="right" />
