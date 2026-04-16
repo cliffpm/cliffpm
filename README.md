@@ -19,7 +19,7 @@
       <br>
       <img src="assets/pochita.gif" height="75" />
       <br><br>
-      <img src="assets/denji_reze_beach_blue.png" width="100%" />
+     <!-- <img src="assets/denji_reze_beach_blue.png" width="100%" /> -->
     </td>
     <td width="25%" style="border: none; vertical-align: bottom;">
       <img src="assets/reze_beach_trim.jpg" width="100%" />
