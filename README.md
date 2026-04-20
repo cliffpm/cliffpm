@@ -7,7 +7,7 @@
       <br><br>
       <pre>
         Current Third Year Student @ UW Seattle
-        Area of Focus: • Machine Learning • System Programming • Signal Processing • RTL design
+        Area of Focus: • Machine Learning • System Programming • Signal Processing / Communications • RTL design
       <!--  Hobbies : • Algorithms / Mathematics • Video Games • Photography and Videography -->
       </pre>
       <br>
