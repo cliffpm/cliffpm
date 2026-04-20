@@ -7,9 +7,9 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=50&duration=3000&pause=1000&color=D698F0&center=true&vCenter=true&width=1300&height=140&repeat=true&lines=Hi!+I'm+an+Engineer;Hi!+I'm+a+Photographer;Hi!+I'm+an+Artist" width="100%" /> -->
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=2000&pause=1&color=D698F0&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi!+I'm+Cliff+and+I'm+a+" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=2000&pause=1&color=D698F0&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi!+I'm+Cliff+and+I'm+a+" />
   
-  <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=1300&pause=700&color=D698F0&center=true&vCenter=true&width=700&height=70&lines=%20;Engineer;Photographer;Artist;Student" />
+  <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&duration=1300&pause=700&color=D698F0&center=true&vCenter=true&width=700&height=70&lines=%20;Engineer;Photographer;Artist;Student" /> -->
       <br><br>
       <pre>
         📚 Current Third Year Student @ UW Seattle
